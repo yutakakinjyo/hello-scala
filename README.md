@@ -12,7 +12,7 @@ or
 
 `$ fsc <target file>.scala`
 
-If you want to stop fsc deamon, should do following command.
+If you want to stop fsc daemon, should do following command.
 
 `$ fsc -shutdown`
 
