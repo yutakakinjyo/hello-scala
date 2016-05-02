@@ -4,6 +4,18 @@
 
 `$ brew install scala`
 
+## Compile
+
+`$ scala <target file>.scala`
+
+or
+
+`$ fsc <target file>.scala`
+
+If you want to stop fsc deamon, should do following command.
+
+`$ fsc -shutdown`
+
 ## Editor
 
 ### Emacs
