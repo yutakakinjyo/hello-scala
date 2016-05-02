@@ -6,7 +6,7 @@
 
 ## Compile
 
-`$ scala <target file>.scala`
+`$ scalac <target file>.scala`
 
 or
 
@@ -15,6 +15,10 @@ or
 If you want to stop fsc daemon, should do following command.
 
 `$ fsc -shutdown`
+
+## Execute
+
+`$ scala <target class name>`
 
 ## Editor
 
